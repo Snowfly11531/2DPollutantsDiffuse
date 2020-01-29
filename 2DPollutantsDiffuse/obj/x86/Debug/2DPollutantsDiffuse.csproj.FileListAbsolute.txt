@@ -1,0 +1,24 @@
+C:\Users\Glenn Luo\Desktop\毕业论文\2DPollutantsDiffuse\2DPollutantsDiffuse\bin\Debug\2DPollutantsDiffuse.exe
+C:\Users\Glenn Luo\Desktop\毕业论文\2DPollutantsDiffuse\2DPollutantsDiffuse\bin\Debug\2DPollutantsDiffuse.pdb
+C:\Users\Glenn Luo\Desktop\毕业论文\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\2DPollutantsDiffuse.csprojResolveAssemblyReference.cache
+C:\Users\Glenn Luo\Desktop\毕业论文\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\_2DPollutantsDiffuse.Calculate2DCA.resources
+C:\Users\Glenn Luo\Desktop\毕业论文\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\_2DPollutantsDiffuse.MainForm.resources
+C:\Users\Glenn Luo\Desktop\毕业论文\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\_2DPollutantsDiffuse.Properties.Resources.resources
+C:\Users\Glenn Luo\Desktop\毕业论文\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\2DPollutantsDiffuse.csproj.GenerateResource.Cache
+C:\Users\Glenn Luo\Desktop\毕业论文\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\2DPollutantsDiffuse.exe
+C:\Users\Glenn Luo\Desktop\毕业论文\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\2DPollutantsDiffuse.pdb
+C:\Users\Glenn Luo\Desktop\毕业论文\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\_2DPollutantsDiffuse.ProcessWindow.resources
+C:\Users\Glenn Luo\Desktop\毕业论文\APPdemo\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\2DPollutantsDiffuse.exe
+C:\Users\Glenn Luo\Desktop\毕业论文\APPdemo\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\2DPollutantsDiffuse.pdb
+G:\lzh\二维河流污染可视化\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\2DPollutantsDiffuse.exe
+G:\lzh\二维河流污染可视化\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\2DPollutantsDiffuse.pdb
+G:\lzh\二维河流污染可视化\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\2DPollutantsDiffuse.csprojResolveAssemblyReference.cache
+G:\lzh\二维河流污染可视化\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\_2DPollutantsDiffuse.Calculate2DCA.resources
+G:\lzh\二维河流污染可视化\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\_2DPollutantsDiffuse.MainForm.resources
+G:\lzh\二维河流污染可视化\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\_2DPollutantsDiffuse.ProcessWindow.resources
+G:\lzh\二维河流污染可视化\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\_2DPollutantsDiffuse.Properties.Resources.resources
+G:\lzh\二维河流污染可视化\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\2DPollutantsDiffuse.csproj.GenerateResource.Cache
+G:\lzh\二维河流污染可视化\2DPollutantsDiffuse\2DPollutantsDiffuse\bin\Debug\2DPollutantsDiffuse.exe
+G:\lzh\二维河流污染可视化\2DPollutantsDiffuse\2DPollutantsDiffuse\bin\Debug\2DPollutantsDiffuse.pdb
+C:\Users\24513\Desktop\phx\二维河流污染可视化\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\2DPollutantsDiffuse.exe
+C:\Users\24513\Desktop\phx\二维河流污染可视化\2DPollutantsDiffuse\2DPollutantsDiffuse\obj\x86\Debug\2DPollutantsDiffuse.pdb
